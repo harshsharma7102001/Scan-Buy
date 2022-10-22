@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "7500846934",
+    "project_id": "scan-and-buy-af248",
+    "storage_bucket": "scan-and-buy-af248.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7500846934:android:bee16bfb95ec8aa15228f7",
+        "android_client_info": {
+          "package_name": "com.world4tech.scanandbuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7500846934-lord91be2dtupboas3mkspd996ne4mps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9LlL9RovFK6XZJuNBGnWYA-cRfWqhXIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7500846934-lord91be2dtupboas3mkspd996ne4mps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

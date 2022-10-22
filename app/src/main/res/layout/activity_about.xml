@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context=".AboutActivity">
+    <ImageView
+        android:layout_width="200sp"
+        android:layout_height="200sp"
+        android:src="@drawable/logo"
+        android:layout_gravity="center"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:fontFamily="@font/artifika"
+        android:layout_margin="15sp"
+        android:textSize="20sp"
+        android:text="Scan and Buy is simple app that is designed with totally unique idea that makes the use of machine learning to identify objects and show you with the most similar results so that you can purchase the item directly.App provides you with 2 options to scan the item. One is through camera and the other one is directly through Gallery."/>
+
+</LinearLayout>
